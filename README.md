@@ -1,6 +1,7 @@
 # Multi-task-Training-NER-and-Sentiment-Analysis
 
-MULTI-TASK TRAINING ModeLs WITH  HUGGING FACE Arabic TRANSFORMERS:
+### Problem statement
+MULTI-TASK TRAINING MODELS WITH  HUGGING FACE Arabic TRANSFORMERS:
 
 1- we work on Real Arabic Hotel Reviews to :
 
@@ -16,6 +17,7 @@ MULTI-TASK TRAINING ModeLs WITH  HUGGING FACE Arabic TRANSFORMERS:
 
 5- Evaluate each multitask model with both classification and NER tasks:
 
+### result
 model  sentimenet_valid_acc  sentiment_test_acc  ner_test_acc
 
 arabert      0.847211          0.849907              0.732296
